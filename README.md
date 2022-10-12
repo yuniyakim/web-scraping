@@ -1,5 +1,5 @@
 # web-scraping
-Web scraper for articles at Google Scholar website
+Web scraper for articles on **web parsing** at Google Scholar website
 
 ## Description
 * Script can be found in *web-scraping.ipynb*
