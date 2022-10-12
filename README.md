@@ -6,4 +6,4 @@ Web scraper for articles on **web parsing** at Google Scholar website
 
 * **Scraped data** can be found in [articles.csv](./articles.csv)
 
-Scraped data contains information about article's title, authors, publication year and a part of its content text.
+Scraped data contains information about 30 articles: title, authors, publication year and a part of its content text.
